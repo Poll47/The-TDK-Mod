@@ -10,7 +10,7 @@
 		"range": 5,
 		"cost": 150,
 		"requiredTech": "Ballistics",
-		"promotions": ["Logistics","Accuracy I", "Drill 1", "Survivalism I"],
+		"promotions": ["Logistics","Accuracy I", "Drill I", "Survivalism I"],
 	}
 
 	{
@@ -24,7 +24,7 @@
 		"range": 7,
 		"cost": 190,
 		"requiredTech": "Ballistics",
-		"promotions": ["Logistics","Accuracy I", "Drill 1", "Cover I", "Siege I"],
+		"promotions": ["Logistics","Accuracy I", "Drill I", "Cover I", "Siege I"],
 	}
 
 	{
@@ -38,6 +38,6 @@
 		"range": 7,
 		"cost": 80,
 		"requiredTech": "Ballistics",
-		"promotions": ["Accuracy I", "Drill 1", "Ignore Terrain Cost"],
+		"promotions": ["Accuracy I", "Drill I", "Rejuvenation"],
 	}
 ]
