@@ -18,8 +18,8 @@
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "TDK",
 		"replaces": "Tank",
-		"movement": 8,
-		"strength": 140,
+		"movement": 7,
+		"strength": 120,
 		"rangedStrength": 90,
 		"range": 7,
 		"cost": 190,
@@ -36,7 +36,20 @@
 		"rangedStrength": 40,
 		"range": 7,
 		"cost": 80,
-		"requiredTech": "Ballistics",
+		"requiredTech": "Gunpowder",
 		"promotions": ["Accuracy I", "Drill I", "Ignore terrain cost"],
+	}
+	{
+		"name": "Pistoleiro",
+		"unitType": "Gunpowder",
+		"uniqueTo": "TDK",
+		"replaces": "Musketman",
+		"movement": 5,
+		"strength": 35,
+		"rangedStrength": 20,
+		"range": 5,
+		"cost": 100,
+		"requiredTech": "Gunpowder",
+		"promotions": ["Logistics","Accuracy I", "Drill I", "Barrage I"],
 	}
 ]
