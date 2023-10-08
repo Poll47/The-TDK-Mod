@@ -1,25 +1,33 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Fundão",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
+		"uniqueTo": "TDK",
+		"cost": 200,
+		"happiness": 16,
+		"culture": 20,
 		"science": 12,
-		"maintenance": 96,
+		"maintenance": 50,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
+	}
 	{
-		"name": "Breeders",
+		"name": "Atacadão dos Doces",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "TDK",
 		"cost": 80,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"happiness": 5,
 		"requiredTech": "Engineering"
+	}
+	{
+
+	       "name": "CE 10 de Maio",
+		"uniqueTo": "TDK",
+		"cost": 100,
+		"hurryCostModifier": 160,
+		"happiness": 4,
+		"science": 16,
+		"requiredTech": "Scientific Theory"
 	}
 ]
