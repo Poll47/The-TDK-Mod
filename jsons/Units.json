@@ -1,17 +1,46 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"name": "Matador de Aluguel",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "TDK",
 		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
+		"movement": 4,
+		"strength": 70,
+		"rangedStrength": 50,
+		"range": 5,
+		"cost": 150,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Logistics","Accuracy I", "Drill 1", "Survivalism I"],
+		"attackSound": "phasers"
+	}
+
+	{
+		"name": "Carro Bicho",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "TDK",
+		"replaces": "Tank",
+		"movement": 8,
+		"strength": 140,
+		"rangedStrength": 90,
+		"range": 7,
+		"cost": 190,
+		"requiredTech": "Ballistics",
+		"promotions": ["Logistics","Accuracy I", "Drill 1", "Cover I", "Siege I"],
+		"attackSound": "phasers"
+	}
+
+	{
+		"name": "X9",
+		"unitType": "Scout",
+		"uniqueTo": "TDK",
+		"replaces": "Tank",
+		"movement": 10,
+		"strength": 60,
+		"rangedStrength": 40,
+		"range": 7,
+		"cost": 80,
+		"requiredTech": "Ballistics",
+		"promotions": ["Accuracy I", "Drill 1", "Ignore Terrain Cost"],
 		"attackSound": "phasers"
 	}
 ]
