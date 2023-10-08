@@ -7,7 +7,7 @@
 		"happiness": 16,
 		"culture": 20,
 		"science": 12,
-		"maintenance": 50,
+		"maintenance": 0,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 	}
@@ -16,7 +16,7 @@
 		"replaces": "Aqueduct",
 		"uniqueTo": "TDK",
 		"cost": 80,
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 60,
 		"happiness": 5,
 		"requiredTech": "Engineering"
 	}
@@ -25,9 +25,10 @@
 	       "name": "CE 10 de Maio",
 		"uniqueTo": "TDK",
 		"cost": 100,
-		"hurryCostModifier": 160,
+		"hurryCostModifier": 70,
 		"happiness": 4,
 		"science": 16,
+		"culture": 10,
 		"requiredTech": "Scientific Theory"
 	}
 ]
