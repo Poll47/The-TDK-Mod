@@ -18,6 +18,7 @@
 		"cost": 80,
 		"hurryCostModifier": 60,
 		"happiness": 5,
+		"gold": 15,
 		"requiredTech": "Engineering"
 	}
 	{
