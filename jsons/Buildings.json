@@ -31,4 +31,13 @@
 		"culture": 10,
 		"requiredTech": "Scientific Theory"
 	}
+	{
+		"name": "Ponto de Vendas",
+		"uniqueTo": "TDK",
+		"cost": 60,
+		"hurryCostModifier": 0,
+		"happiness": 6,
+		"gold": 15,
+		"requiredTech": "Guilds"
+	}
 ]
