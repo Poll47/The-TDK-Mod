@@ -27,7 +27,7 @@
 		"afterPeace": "graza a Deus",
 		"tradeRequest": "que morrer como broxa ou traidor?",
 
-		"outerColor": [220,0,0],
+		"outerColor": [0,0,0],
 		"innerColor": [178,34,34],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["1003","1002","1001","902","901","803","802","801","Corredor",
