@@ -31,13 +31,12 @@
 		"name": "X9",
 		"unitType": "Scout",
 		"uniqueTo": "TDK",
-		"replaces": "Tank",
 		"movement": 10,
 		"strength": 60,
 		"rangedStrength": 40,
 		"range": 7,
 		"cost": 80,
 		"requiredTech": "Ballistics",
-		"promotions": ["Accuracy I", "Drill I", "Rejuvenation"],
+		"promotions": ["Accuracy I", "Drill I", "Ignore terrain cost"],
 	}
 ]
