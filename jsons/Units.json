@@ -11,7 +11,6 @@
 		"cost": 150,
 		"requiredTech": "Ballistics",
 		"promotions": ["Logistics","Accuracy I", "Drill 1", "Survivalism I"],
-		"attackSound": "phasers"
 	}
 
 	{
@@ -26,7 +25,6 @@
 		"cost": 190,
 		"requiredTech": "Ballistics",
 		"promotions": ["Logistics","Accuracy I", "Drill 1", "Cover I", "Siege I"],
-		"attackSound": "phasers"
 	}
 
 	{
@@ -41,6 +39,5 @@
 		"cost": 80,
 		"requiredTech": "Ballistics",
 		"promotions": ["Accuracy I", "Drill 1", "Ignore Terrain Cost"],
-		"attackSound": "phasers"
 	}
 ]
