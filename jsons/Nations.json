@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "TDK",
+		"leaderName": "Poll and Nyam",
+		"adjective": ["gente boa"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Bom dia",
+		"startIntroPart2": "Só Queremos Paz",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "TU VAI RODAR",
+		"attacked": "TA DE RESUMO NA CAMINHADA MEU PARCERO?",
+		"defeated": "whatfuc amigo, cabo pra nois",
+		"introduction": "É nois ou a gente?",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Eai mano",
+		"neutralLetsHearIt": ["Bora então"],
+		"neutralNo": ["Nah, que isso"],
+		"neutralYes": ["CLARO FI"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Opa",
+		"hateLetsHearIt": ["Vamo então"],
+		"hateNo": ["NÃO MENO, SELOKO?"],
+		"hateYes": ["com certeza"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "graza a Deus",
+		"tradeRequest": "que morrer como broxa ou traidor?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [220,0,0],
+		"innerColor": [178,34,34],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["1003","1002","1001","902","901","803","802","801","Corredor",
+			"Pátio","Quadra","Refeitório","2007","Beco da Catinga","Beira Rio","Curumim","Centrin",
+			"Bom Pastor","Boa Fortuna","Aeroporto","Dominío do Moço","Área do Poll","Lar de Nyam","CDD","Fundos",
+			"Matadouro","Caiçara","Mesquita","Betim","Belford Roxo","Itaperuna"]
 	}
 ]
